@@ -16,17 +16,13 @@ function Nav (){
                         <Link className="nav-link" to="/About">About</Link>
               </li>
               
-        <li className="nav-item">
-                <Link className="nav-link" to="/Addproduct">Addproduct</Link>
-              </li>
+        
   
               <li className="nav-item">
                 <Link className="nav-link" to="/Cart">Cart </Link> 
                 </li>
   
-                <li className="nav-item">
-                <Link className="nav-link" to="/Productdetails">Productdetails</Link>
-              </li>
+               
             </ul>
           </div>
         </div>
